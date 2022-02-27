@@ -1,10 +1,10 @@
-# Trendyol Link Converter
+# Link Converter
 
 ----
 
-## What is Trendyol Link Converter
+## What is Link Converter
 
-Trendyol Link Converter is a service that helps others to convert Trendyol.com links between mobile and web applications. 
+Link Converter is a service that helps others to convert <domain>.com links between mobile and web applications. 
 Web applications use URLs and mobil applications use deeplinks.
 Both application use links to redirect specific location inside applications.
 When you want to redirect accross applications, you should convert URLs to deeplinks or deeplinks to URLs.
@@ -49,10 +49,6 @@ When you want to redirect accross applications, you should convert URLs to deepl
 * Docker version 19.03.8 or higher
 
 ## How to run
-* Download project from GitHub.
-```
-git clone https://github.com/DevelopmentHiring/TrendyolCase-OrkunGedik.git
-```
 * Navigate to project directory
 * Run docker compose
 ````
